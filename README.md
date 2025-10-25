@@ -101,9 +101,13 @@ npm start
 
 ---
 
+<img width="1463" height="791" alt="Image" src="https://github.com/user-attachments/assets/e19ee3b1-db46-44c1-84f6-c134ecf476bf" />
+<img width="1464" height="794" alt="Image" src="https://github.com/user-attachments/assets/0e0aa678-6f95-40d1-b3a1-1d244d2ffd9a" /> 
+
 ## **License**
 
 This project is licensed under the MIT License.
 
 ---
+
 
